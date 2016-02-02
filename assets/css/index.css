@@ -12,14 +12,24 @@ body {
 
 ol {
   line-height: 150%;
+  color: gray;
+  margin-top: 0px;
+}
+
+li {
+  color:red;
 }
 
 nav {
   background-color: #666666;
+  padding: 10px;
+  margin-bottom: 0px;
 }
 
 ol {
   background-color: #d9d9d9;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 a {
