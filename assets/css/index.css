@@ -14,6 +14,9 @@ ol {
   line-height: 150%;
   color: gray;
   margin-top: 0px;
+  background-color: #EEF0F3;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 li {
@@ -24,12 +27,6 @@ nav {
   background-color: #8D90A1;
   padding: 10px;
   margin-bottom: 0px;
-}
-
-ol {
-  background-color: #EEF0F3;
-  padding-top: 10px;
-  padding-bottom: 10px;
 }
 
 .rightAlign {
@@ -43,6 +40,10 @@ footer {
 
 .white {
   color: white;
+}
+
+.float-right {
+  float:right;
 }
 
 a {
